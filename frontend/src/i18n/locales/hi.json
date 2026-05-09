@@ -1,0 +1,100 @@
+{
+  "landing": {
+    "hero": {
+      "title": "PICCO में आपका स्वागत है",
+      "subtitle": "आपका AI-संचालित शैक्षिक प्लेटफॉर्म",
+      "description": "अत्याधुनिक AI तकनीक के साथ सीखने को बदलें। तुरंत जवाब पाएं, वेबसाइट बनाएं और अपनी क्षमता को अनलॉक करें।"
+    },
+    "features": {
+      "title": "शक्तिशाली सुविधाएं",
+      "aiqa": {
+        "title": "AI Q&A",
+        "description": "कुछ भी पूछें - चित्र, दस्तावेज़, वीडियो। उन्नत AI द्वारा संचालित तुरंत, सटीक उत्तर प्राप्त करें।"
+      },
+      "websiteBuilder": {
+        "title": "वेबसाइट बिल्डर",
+        "description": "हमारे SaaS प्लेटफॉर्म के साथ पेशेवर वेबसाइट बनाएं और डिप्लॉय करें। Netlify पर वन-क्लिक पब्लिशिंग।"
+      },
+      "payments": {
+        "title": "सुरक्षित भुगतान",
+        "description": "M-Pesa या वैश्विक मुद्राओं से भुगतान करें। सफल भुगतान पर तुरंत पहुंच।"
+      }
+    },
+    "cta": {
+      "getStarted": "शुरू करें",
+      "learnMore": "और जानें"
+    }
+  },
+  "auth": {
+    "signIn": "साइन इन करें",
+    "signOut": "साइन आउट करें",
+    "email": "ईमेल पता",
+    "password": "पासवर्ड",
+    "signInWithGoogle": "Google से साइन इन करें",
+    "orContinueWith": "या जारी रखें",
+    "dontHaveAccount": "खाता नहीं है?",
+    "alreadyHaveAccount": "पहले से खाता है?",
+    "signUp": "साइन अप करें"
+  },
+  "nav": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "websiteBuilder": "वेबसाइट बिल्डर",
+    "admin": "एडमिन",
+    "profile": "प्रोफाइल"
+  },
+  "dashboard": {
+    "welcome": "वापस स्वागत है",
+    "aiAssistant": "AI सहायक",
+    "recentActivity": "हाल की गतिविधि",
+    "quickActions": "त्वरित कार्य"
+  },
+  "aiPanel": {
+    "title": "AI Q&A पैनल",
+    "placeholder": "PICCO से कुछ भी पूछें...",
+    "send": "भेजें",
+    "analyzing": "विश्लेषण हो रहा है...",
+    "summarize": "सारांशित करें",
+    "writeBriefly": "संक्षेप में लिखें",
+    "explainDetail": "विस्तार से समझाएं",
+    "useExamples": "उदाहरणों का उपयोग करें"
+  },
+  "pricing": {
+    "title": "अपनी योजना चुनें",
+    "pro": {
+      "name": "प्रो",
+      "priceWeekly": "$10/सप्ताह",
+      "priceMonthly": "$35/महीना",
+      "features": ["AI Q&A", "दस्तावेज़ विश्लेषण", "बुनियादी सहायता"]
+    },
+    "plus": {
+      "name": "प्लस",
+      "priceWeekly": "$25/सप्ताह",
+      "priceMonthly": "$98/महीना",
+      "features": ["प्रो की सभी सुविधाएं", "वेबसाइट बिल्डर", "प्राथमिकता सहायता", "वीडियो ट्रांसक्रिप्शन"]
+    },
+    "subscribe": "सदस्यता लें"
+  },
+  "admin": {
+    "title": "एडमिन डैशबोर्ड",
+    "users": "उपयोगकर्ता",
+    "transactions": "लेनदेन",
+    "settings": "सेटिंग्स",
+    "surveys": "सर्वेक्षण"
+  },
+  "footer": {
+    "rights": "सर्वाधिकार सुरक्षित",
+    "contact": "संपर्क करें",
+    "privacy": "गोपनीयता नीति",
+    "terms": "सेवा की शर्तें"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "एक त्रुटि हुई",
+    "retry": "पुनः प्रयास करें",
+    "cancel": "रद्द करें",
+    "confirm": "पुष्टि करें",
+    "save": "सहेजें",
+    "close": "बंद करें"
+  }
+}

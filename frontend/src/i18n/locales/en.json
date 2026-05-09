@@ -1,0 +1,100 @@
+{
+  "landing": {
+    "hero": {
+      "title": "Welcome to PICCO",
+      "subtitle": "Your AI-Powered Educational Platform",
+      "description": "Transform learning with cutting-edge AI technology. Get instant answers, build websites, and unlock your potential."
+    },
+    "features": {
+      "title": "Powerful Features",
+      "aiqa": {
+        "title": "AI Q&A",
+        "description": "Ask anything - images, documents, videos. Get instant, accurate answers powered by advanced AI."
+      },
+      "websiteBuilder": {
+        "title": "Website Builder",
+        "description": "Build and deploy professional websites with our SaaS platform. One-click publishing to Netlify."
+      },
+      "payments": {
+        "title": "Secure Payments",
+        "description": "Pay with M-Pesa or global currencies. Instant access on successful payment."
+      }
+    },
+    "cta": {
+      "getStarted": "Get Started",
+      "learnMore": "Learn More"
+    }
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "email": "Email Address",
+    "password": "Password",
+    "signInWithGoogle": "Sign in with Google",
+    "orContinueWith": "Or continue with",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "signUp": "Sign Up"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "websiteBuilder": "Website Builder",
+    "admin": "Admin",
+    "profile": "Profile"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "aiAssistant": "AI Assistant",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions"
+  },
+  "aiPanel": {
+    "title": "AI Q&A Panel",
+    "placeholder": "Ask PICCO anything...",
+    "send": "Send",
+    "analyzing": "Analyzing...",
+    "summarize": "Summarize",
+    "writeBriefly": "Write Briefly",
+    "explainDetail": "Explain in Detail",
+    "useExamples": "Use Examples"
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "pro": {
+      "name": "Pro",
+      "priceWeekly": "$10/week",
+      "priceMonthly": "$35/month",
+      "features": ["AI Q&A", "Document Analysis", "Basic Support"]
+    },
+    "plus": {
+      "name": "Plus",
+      "priceWeekly": "$25/week",
+      "priceMonthly": "$98/month",
+      "features": ["Everything in Pro", "Website Builder", "Priority Support", "Video Transcription"]
+    },
+    "subscribe": "Subscribe"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "users": "Users",
+    "transactions": "Transactions",
+    "settings": "Settings",
+    "surveys": "Surveys"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "close": "Close"
+  }
+}

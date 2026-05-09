@@ -1,0 +1,100 @@
+{
+  "landing": {
+    "hero": {
+      "title": "PICCO에 오신 것을 환영합니다",
+      "subtitle": "AI 기반 교육 플랫폼",
+      "description": "최첨단 AI 기술로 학습을 혁신하세요. 즉각적인 답변을 받고, 웹사이트를 구축하고, 잠재력을 발휘하세요."
+    },
+    "features": {
+      "title": "강력한 기능",
+      "aiqa": {
+        "title": "AI Q&A",
+        "description": "이미지, 문서, 비디오에 대해 질문하세요. 고급 AI가 즉각적이고 정확한 답변을 제공합니다."
+      },
+      "websiteBuilder": {
+        "title": "웹사이트 빌더",
+        "description": "SaaS 플랫폼으로 전문 웹사이트를 구축하고 배포하세요. Netlify에 원클릭 게시."
+      },
+      "payments": {
+        "title": "안전한 결제",
+        "description": "M-Pesa 또는 글로벌 통화로 결제. 결제 성공 시 즉시 액세스."
+      }
+    },
+    "cta": {
+      "getStarted": "시작하기",
+      "learnMore": "자세히 보기"
+    }
+  },
+  "auth": {
+    "signIn": "로그인",
+    "signOut": "로그아웃",
+    "email": "이메일 주소",
+    "password": "비밀번호",
+    "signInWithGoogle": "Google로 로그인",
+    "orContinueWith": "또는 계속",
+    "dontHaveAccount": "계정이 없으신가요?",
+    "alreadyHaveAccount": "이미 계정이 있으신가요?",
+    "signUp": "회원가입"
+  },
+  "nav": {
+    "home": "홈",
+    "dashboard": "대시보드",
+    "websiteBuilder": "웹사이트 빌더",
+    "admin": "관리자",
+    "profile": "프로필"
+  },
+  "dashboard": {
+    "welcome": "다시 오신 것을 환영합니다",
+    "aiAssistant": "AI 어시스턴트",
+    "recentActivity": "최근 활동",
+    "quickActions": "빠른 작업"
+  },
+  "aiPanel": {
+    "title": "AI Q&A 패널",
+    "placeholder": "PICCO에게 무엇이든 물어보세요...",
+    "send": "보내기",
+    "analyzing": "분석 중...",
+    "summarize": "요약",
+    "writeBriefly": "간단히 쓰기",
+    "explainDetail": "자세히 설명",
+    "useExamples": "예시 사용"
+  },
+  "pricing": {
+    "title": "플랜 선택",
+    "pro": {
+      "name": "프로",
+      "priceWeekly": "$10/주",
+      "priceMonthly": "$35/월",
+      "features": ["AI Q&A", "문서 분석", "기본 지원"]
+    },
+    "plus": {
+      "name": "플러스",
+      "priceWeekly": "$25/주",
+      "priceMonthly": "$98/월",
+      "features": ["프로 모든 기능", "웹사이트 빌더", "우선 지원", "비디오 변환"]
+    },
+    "subscribe": "구독"
+  },
+  "admin": {
+    "title": "관리자 대시보드",
+    "users": "사용자",
+    "transactions": "거래",
+    "settings": "설정",
+    "surveys": "설문"
+  },
+  "footer": {
+    "rights": "모든 권리 보유",
+    "contact": "문의",
+    "privacy": "개인정보 처리방침",
+    "terms": "서비스 약관"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "retry": "다시 시도",
+    "cancel": "취소",
+    "confirm": "확인",
+    "save": "저장",
+    "close": "닫기"
+  }
+}

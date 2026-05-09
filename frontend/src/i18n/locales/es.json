@@ -1,0 +1,100 @@
+{
+  "landing": {
+    "hero": {
+      "title": "Bienvenido a PICCO",
+      "subtitle": "Tu Plataforma Educativa con IA",
+      "description": "Transforma tu aprendizaje con tecnología de IA de vanguardia. Obtén respuestas instantáneas, construye sitios web y desbloquea tu potencial."
+    },
+    "features": {
+      "title": "Características Potentes",
+      "aiqa": {
+        "title": "Q&A con IA",
+        "description": "Pregunta lo que quieras - imágenes, documentos, videos. Obtén respuestas instantáneas y precisas impulsadas por IA avanzada."
+      },
+      "websiteBuilder": {
+        "title": "Constructor de Sitios",
+        "description": "Construye y despliega sitios web profesionales con nuestra plataforma SaaS. Publicación con un clic a Netlify."
+      },
+      "payments": {
+        "title": "Pagos Seguros",
+        "description": "Paga con M-Pesa o monedas globales. Acceso instantáneo al confirmar el pago."
+      }
+    },
+    "cta": {
+      "getStarted": "Comenzar",
+      "learnMore": "Saber Más"
+    }
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signOut": "Cerrar Sesión",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "signInWithGoogle": "Iniciar sesión con Google",
+    "orContinueWith": "O continuar con",
+    "dontHaveAccount": "¿No tienes cuenta?",
+    "alreadyHaveAccount": "¿Ya tienes cuenta?",
+    "signUp": "Registrarse"
+  },
+  "nav": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "websiteBuilder": "Constructor Web",
+    "admin": "Admin",
+    "profile": "Perfil"
+  },
+  "dashboard": {
+    "welcome": "Bienvenido de nuevo",
+    "aiAssistant": "Asistente IA",
+    "recentActivity": "Actividad Reciente",
+    "quickActions": "Acciones Rápidas"
+  },
+  "aiPanel": {
+    "title": "Panel Q&A con IA",
+    "placeholder": "Pregúntale a PICCO cualquier cosa...",
+    "send": "Enviar",
+    "analyzing": "Analizando...",
+    "summarize": "Resumir",
+    "writeBriefly": "Escribir Brevemente",
+    "explainDetail": "Explicar en Detalle",
+    "useExamples": "Usar Ejemplos"
+  },
+  "pricing": {
+    "title": "Elige Tu Plan",
+    "pro": {
+      "name": "Pro",
+      "priceWeekly": "$10/semana",
+      "priceMonthly": "$35/mes",
+      "features": ["Q&A con IA", "Análisis de Documentos", "Soporte Básico"]
+    },
+    "plus": {
+      "name": "Plus",
+      "priceWeekly": "$25/semana",
+      "priceMonthly": "$98/mes",
+      "features": ["Todo lo de Pro", "Constructor de Sitios", "Soporte Prioritario", "Transcripción de Video"]
+    },
+    "subscribe": "Suscribirse"
+  },
+  "admin": {
+    "title": "Panel de Admin",
+    "users": "Usuarios",
+    "transactions": "Transacciones",
+    "settings": "Configuración",
+    "surveys": "Encuestas"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "contact": "Contacto",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "retry": "Reintentar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "save": "Guardar",
+    "close": "Cerrar"
+  }
+}

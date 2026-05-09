@@ -1,0 +1,100 @@
+{
+  "landing": {
+    "hero": {
+      "title": "PICCOへようこそ",
+      "subtitle": "AI搭載教育プラットフォーム",
+      "description": "最先端のAI技術で学習を変革。瞬時に回答を取得、Webサイトを構築、可能性を開放。"
+    },
+    "features": {
+      "title": "強力な機能",
+      "aiqa": {
+        "title": "AI Q&A",
+        "description": "画像、文書、ビデオについて質問OK。高度なAIによる即座で正確な回答。"
+      },
+      "websiteBuilder": {
+        "title": "ウェブサイトビルダー",
+        "description": "SaaSプラットフォームでプロフェッショナルなWebサイトを構築。ワンクリックでNetlifyに公開。"
+      },
+      "payments": {
+        "title": "安全な決済",
+        "description": "M-Pesaまたはグローバル通貨でお支払い。支払成功後即座にアクセス可能。"
+      }
+    },
+    "cta": {
+      "getStarted": "始める",
+      "learnMore": "詳細を見る"
+    }
+  },
+  "auth": {
+    "signIn": "ログイン",
+    "signOut": "ログアウト",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "signInWithGoogle": "Googleでログイン",
+    "orContinueWith": "または",
+    "dontHaveAccount": "アカウントをお持ちでない方",
+    "alreadyHaveAccount": "すでにアカウントをお持ちの方",
+    "signUp": "新規登録"
+  },
+  "nav": {
+    "home": "ホーム",
+    "dashboard": "ダッシュボード",
+    "websiteBuilder": "ウェブサイトビルダー",
+    "admin": "管理者",
+    "profile": "プロフィール"
+  },
+  "dashboard": {
+    "welcome": "おかえりなさい",
+    "aiAssistant": "AIアシスタント",
+    "recentActivity": "最近のアクティビティ",
+    "quickActions": "クイックアクション"
+  },
+  "aiPanel": {
+    "title": "AI Q&Aパネル",
+    "placeholder": "PICCOに何でも聞いてください...",
+    "send": "送信",
+    "analyzing": "分析中...",
+    "summarize": "要約",
+    "writeBriefly": "簡潔に書く",
+    "explainDetail": "詳しく説明",
+    "useExamples": "例を使用"
+  },
+  "pricing": {
+    "title": "プランを選択",
+    "pro": {
+      "name": "プロ",
+      "priceWeekly": "$10/週",
+      "priceMonthly": "$35/月",
+      "features": ["AI Q&A", "文書分析", "基本サポート"]
+    },
+    "plus": {
+      "name": "プラス",
+      "priceWeekly": "$25/週",
+      "priceMonthly": "$98/月",
+      "features": ["プロの内容全て", "ウェブサイトビルダー", "優先サポート", "ビデオ文字起こし"]
+    },
+    "subscribe": "登録"
+  },
+  "admin": {
+    "title": "管理者ダッシュボード",
+    "users": "ユーザー",
+    "transactions": "取引",
+    "settings": "設定",
+    "surveys": "アンケート"
+  },
+  "footer": {
+    "rights": "全著作権所有",
+    "contact": "お問い合わせ",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "retry": "再試行",
+    "cancel": "キャンセル",
+    "confirm": "確認",
+    "save": "保存",
+    "close": "閉じる"
+  }
+}
